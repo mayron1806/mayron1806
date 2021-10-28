@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 Learning: PHP, JavaScript and  MYSQL;
+🌱 Learning: HTML, CSS, PHP, JavaScript and  MYSQL;
 
 🎒 Main Tools: Visual Studio Code and GitHub;
 ##
