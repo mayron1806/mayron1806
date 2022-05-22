@@ -1,5 +1,8 @@
 ### Hi there 👋
-🌱 Learning: HTML, CSS, PHP, JavaScript and  MYSQL;
+
+Technologies: ReactJS, TypeScript
+
+🌱 Learning: MongoDB and Firebase;
 
 🎒 Main Tools: Visual Studio Code and GitHub;
 ##
