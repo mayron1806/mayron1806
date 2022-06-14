@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Technologies: ReactJS, TypeScript
+Technologies: HTML, CSS, JavaScript, ReactJS, TypeScript
 
 🌱 Learning: MongoDB and Firebase;
 
