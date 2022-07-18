@@ -1,10 +1,10 @@
-### Hi there 👋
+### Olá 👋
 
-Technologies: HTML, CSS, JavaScript, ReactJS, TypeScript
+Tecnologias: HTML, CSS, JavaScript, ReactJS, TypeScript
 
-🌱 Learning: MongoDB and Firebase;
+🌱 Aprendendo: NodeJS e MongoDB;
 
-🎒 Main Tools: Visual Studio Code and GitHub;
+🎒 Principais ferramentas: Visual Studio Code e GitHub;
 ##
   
 <div>
