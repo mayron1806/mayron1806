@@ -4,9 +4,9 @@ Gosto de aprofundar meus conhecimentos nas tecnologias e evoluir cada vez mais.
 Atualmente desenvolvo projetos em ReactJS, TypeScript e Firebase, além disso possuo experiência em consumo de API como: "ViaCEP" e "jikan API". E atualmente estou estudando express e mongodb, para alcançar meu desejado fullstack.
 
 
-Tecnologias: HTML, CSS, JavaScript, ReactJS, TypeScript
+Tecnologias: HTML, CSS, JavaScript, ReactJS, TypeScript, C#, DotNet
 
-🌱 Aprendendo: NodeJS e MongoDB;
+🌱 Aprendendo: DotNet;
 
 🎒 Principais ferramentas: Visual Studio Code e GitHub;
 ##
